@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  GPSTestApplication
+//  StreetCleaningMonitoring
 //
 //  Created by Igor Shukyurov on 23.08.2020.
 //  Copyright © 2020 Igor Shukyurov. All rights reserved.
